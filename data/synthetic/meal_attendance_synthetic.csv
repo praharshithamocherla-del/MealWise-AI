@@ -1,0 +1,1096 @@
+date,meal_type,menu_category,attendance,is_holiday
+2025-01-01,breakfast,South Indian,253,0
+2025-01-01,lunch,Continental,336,0
+2025-01-01,dinner,South Indian,267,0
+2025-01-02,breakfast,Continental,229,0
+2025-01-02,lunch,Continental,317,0
+2025-01-02,dinner,Continental,282,0
+2025-01-03,breakfast,Special Menu,294,0
+2025-01-03,lunch,Rice & Curry,345,0
+2025-01-03,dinner,Continental,303,0
+2025-01-04,breakfast,Continental,239,0
+2025-01-04,lunch,Rice & Curry,315,0
+2025-01-04,dinner,North Indian,256,0
+2025-01-05,breakfast,Special Menu,191,1
+2025-01-05,lunch,Special Menu,259,1
+2025-01-05,dinner,Continental,218,1
+2025-01-06,breakfast,North Indian,263,0
+2025-01-06,lunch,Continental,317,0
+2025-01-06,dinner,Continental,293,0
+2025-01-07,breakfast,Rice & Curry,269,0
+2025-01-07,lunch,South Indian,351,0
+2025-01-07,dinner,Special Menu,302,0
+2025-01-08,breakfast,Continental,244,0
+2025-01-08,lunch,Special Menu,360,0
+2025-01-08,dinner,North Indian,317,0
+2025-01-09,breakfast,Rice & Curry,246,0
+2025-01-09,lunch,South Indian,329,0
+2025-01-09,dinner,Rice & Curry,305,0
+2025-01-10,breakfast,Continental,263,0
+2025-01-10,lunch,Continental,328,0
+2025-01-10,dinner,Special Menu,312,0
+2025-01-11,breakfast,Special Menu,274,0
+2025-01-11,lunch,North Indian,319,0
+2025-01-11,dinner,Special Menu,289,0
+2025-01-12,breakfast,South Indian,192,1
+2025-01-12,lunch,Continental,211,1
+2025-01-12,dinner,Continental,191,1
+2025-01-13,breakfast,Rice & Curry,251,0
+2025-01-13,lunch,Rice & Curry,327,0
+2025-01-13,dinner,North Indian,282,0
+2025-01-14,breakfast,South Indian,292,0
+2025-01-14,lunch,Special Menu,344,0
+2025-01-14,dinner,Rice & Curry,295,0
+2025-01-15,breakfast,Rice & Curry,275,0
+2025-01-15,lunch,Rice & Curry,347,0
+2025-01-15,dinner,Continental,276,0
+2025-01-16,breakfast,South Indian,290,0
+2025-01-16,lunch,North Indian,315,0
+2025-01-16,dinner,Rice & Curry,272,0
+2025-01-17,breakfast,Special Menu,290,0
+2025-01-17,lunch,South Indian,347,0
+2025-01-17,dinner,Rice & Curry,285,0
+2025-01-18,breakfast,Continental,236,0
+2025-01-18,lunch,Special Menu,323,0
+2025-01-18,dinner,Continental,271,0
+2025-01-19,breakfast,North Indian,175,1
+2025-01-19,lunch,South Indian,251,1
+2025-01-19,dinner,Continental,207,1
+2025-01-20,breakfast,Continental,247,0
+2025-01-20,lunch,Special Menu,360,0
+2025-01-20,dinner,Rice & Curry,301,0
+2025-01-21,breakfast,Rice & Curry,262,0
+2025-01-21,lunch,Rice & Curry,326,0
+2025-01-21,dinner,Continental,255,0
+2025-01-22,breakfast,Continental,230,0
+2025-01-22,lunch,North Indian,321,0
+2025-01-22,dinner,South Indian,313,0
+2025-01-23,breakfast,Rice & Curry,257,0
+2025-01-23,lunch,Continental,349,0
+2025-01-23,dinner,North Indian,312,0
+2025-01-24,breakfast,Continental,239,0
+2025-01-24,lunch,Continental,309,0
+2025-01-24,dinner,North Indian,293,0
+2025-01-25,breakfast,South Indian,223,0
+2025-01-25,lunch,Rice & Curry,320,0
+2025-01-25,dinner,Special Menu,279,0
+2025-01-26,breakfast,Rice & Curry,151,1
+2025-01-26,lunch,South Indian,250,1
+2025-01-26,dinner,Continental,204,1
+2025-01-27,breakfast,North Indian,298,0
+2025-01-27,lunch,Continental,322,0
+2025-01-27,dinner,Continental,290,0
+2025-01-28,breakfast,South Indian,281,0
+2025-01-28,lunch,South Indian,362,0
+2025-01-28,dinner,Rice & Curry,301,0
+2025-01-29,breakfast,Continental,235,0
+2025-01-29,lunch,South Indian,335,0
+2025-01-29,dinner,North Indian,293,0
+2025-01-30,breakfast,Special Menu,258,0
+2025-01-30,lunch,Continental,323,0
+2025-01-30,dinner,Rice & Curry,268,0
+2025-01-31,breakfast,Rice & Curry,271,0
+2025-01-31,lunch,Rice & Curry,350,0
+2025-01-31,dinner,North Indian,353,0
+2025-02-01,breakfast,Rice & Curry,251,0
+2025-02-01,lunch,South Indian,287,0
+2025-02-01,dinner,Rice & Curry,278,0
+2025-02-02,breakfast,Special Menu,189,1
+2025-02-02,lunch,North Indian,242,1
+2025-02-02,dinner,North Indian,233,1
+2025-02-03,breakfast,South Indian,280,0
+2025-02-03,lunch,Rice & Curry,317,0
+2025-02-03,dinner,South Indian,277,0
+2025-02-04,breakfast,Continental,257,0
+2025-02-04,lunch,Continental,359,0
+2025-02-04,dinner,Special Menu,331,0
+2025-02-05,breakfast,Continental,249,0
+2025-02-05,lunch,Special Menu,336,0
+2025-02-05,dinner,North Indian,288,0
+2025-02-06,breakfast,Rice & Curry,251,0
+2025-02-06,lunch,North Indian,356,0
+2025-02-06,dinner,Special Menu,331,0
+2025-02-07,breakfast,North Indian,278,0
+2025-02-07,lunch,Continental,327,0
+2025-02-07,dinner,Rice & Curry,284,0
+2025-02-08,breakfast,South Indian,248,0
+2025-02-08,lunch,South Indian,304,0
+2025-02-08,dinner,Special Menu,295,0
+2025-02-09,breakfast,Special Menu,226,1
+2025-02-09,lunch,Special Menu,265,1
+2025-02-09,dinner,Special Menu,232,1
+2025-02-10,breakfast,Rice & Curry,270,0
+2025-02-10,lunch,North Indian,334,0
+2025-02-10,dinner,Rice & Curry,304,0
+2025-02-11,breakfast,North Indian,299,0
+2025-02-11,lunch,North Indian,320,0
+2025-02-11,dinner,North Indian,277,0
+2025-02-12,breakfast,South Indian,310,0
+2025-02-12,lunch,South Indian,346,0
+2025-02-12,dinner,Continental,315,0
+2025-02-13,breakfast,South Indian,259,0
+2025-02-13,lunch,North Indian,353,0
+2025-02-13,dinner,North Indian,295,0
+2025-02-14,breakfast,Rice & Curry,264,0
+2025-02-14,lunch,Rice & Curry,343,0
+2025-02-14,dinner,South Indian,311,0
+2025-02-15,breakfast,North Indian,262,0
+2025-02-15,lunch,Special Menu,332,0
+2025-02-15,dinner,South Indian,272,0
+2025-02-16,breakfast,Continental,156,1
+2025-02-16,lunch,Rice & Curry,244,1
+2025-02-16,dinner,South Indian,198,1
+2025-02-17,breakfast,Continental,260,0
+2025-02-17,lunch,Rice & Curry,346,0
+2025-02-17,dinner,South Indian,301,0
+2025-02-18,breakfast,Special Menu,304,0
+2025-02-18,lunch,North Indian,352,0
+2025-02-18,dinner,North Indian,300,0
+2025-02-19,breakfast,Special Menu,273,0
+2025-02-19,lunch,Rice & Curry,342,0
+2025-02-19,dinner,South Indian,313,0
+2025-02-20,breakfast,Special Menu,287,0
+2025-02-20,lunch,South Indian,354,0
+2025-02-20,dinner,South Indian,343,0
+2025-02-21,breakfast,Special Menu,270,0
+2025-02-21,lunch,Continental,303,0
+2025-02-21,dinner,Special Menu,305,0
+2025-02-22,breakfast,Special Menu,286,0
+2025-02-22,lunch,South Indian,315,0
+2025-02-22,dinner,North Indian,242,0
+2025-02-23,breakfast,Continental,170,1
+2025-02-23,lunch,Continental,233,1
+2025-02-23,dinner,Continental,187,1
+2025-02-24,breakfast,South Indian,248,0
+2025-02-24,lunch,Continental,304,0
+2025-02-24,dinner,Rice & Curry,275,0
+2025-02-25,breakfast,North Indian,253,0
+2025-02-25,lunch,Special Menu,409,0
+2025-02-25,dinner,Special Menu,295,0
+2025-02-26,breakfast,Rice & Curry,274,0
+2025-02-26,lunch,Rice & Curry,369,0
+2025-02-26,dinner,North Indian,299,0
+2025-02-27,breakfast,North Indian,287,0
+2025-02-27,lunch,Rice & Curry,332,0
+2025-02-27,dinner,South Indian,308,0
+2025-02-28,breakfast,Rice & Curry,264,0
+2025-02-28,lunch,South Indian,346,0
+2025-02-28,dinner,South Indian,301,0
+2025-03-01,breakfast,South Indian,267,0
+2025-03-01,lunch,Rice & Curry,319,0
+2025-03-01,dinner,Continental,275,0
+2025-03-02,breakfast,Special Menu,200,1
+2025-03-02,lunch,Rice & Curry,239,1
+2025-03-02,dinner,Rice & Curry,210,1
+2025-03-03,breakfast,South Indian,318,0
+2025-03-03,lunch,Continental,338,0
+2025-03-03,dinner,Rice & Curry,285,0
+2025-03-04,breakfast,South Indian,286,0
+2025-03-04,lunch,North Indian,324,0
+2025-03-04,dinner,South Indian,316,0
+2025-03-05,breakfast,Special Menu,296,0
+2025-03-05,lunch,Continental,348,0
+2025-03-05,dinner,South Indian,319,0
+2025-03-06,breakfast,North Indian,266,0
+2025-03-06,lunch,Special Menu,362,0
+2025-03-06,dinner,Continental,286,0
+2025-03-07,breakfast,Continental,259,0
+2025-03-07,lunch,Special Menu,360,0
+2025-03-07,dinner,Rice & Curry,326,0
+2025-03-08,breakfast,Special Menu,261,0
+2025-03-08,lunch,Rice & Curry,320,0
+2025-03-08,dinner,North Indian,275,0
+2025-03-09,breakfast,North Indian,156,1
+2025-03-09,lunch,South Indian,295,1
+2025-03-09,dinner,Rice & Curry,185,1
+2025-03-10,breakfast,Rice & Curry,263,0
+2025-03-10,lunch,North Indian,343,0
+2025-03-10,dinner,South Indian,305,0
+2025-03-11,breakfast,Continental,285,0
+2025-03-11,lunch,Continental,363,0
+2025-03-11,dinner,Special Menu,339,0
+2025-03-12,breakfast,Rice & Curry,301,0
+2025-03-12,lunch,Rice & Curry,347,0
+2025-03-12,dinner,North Indian,299,0
+2025-03-13,breakfast,Special Menu,289,0
+2025-03-13,lunch,South Indian,369,0
+2025-03-13,dinner,North Indian,283,0
+2025-03-14,breakfast,Rice & Curry,266,0
+2025-03-14,lunch,Continental,353,0
+2025-03-14,dinner,Continental,324,0
+2025-03-15,breakfast,South Indian,273,0
+2025-03-15,lunch,Rice & Curry,316,0
+2025-03-15,dinner,Special Menu,274,0
+2025-03-16,breakfast,South Indian,222,1
+2025-03-16,lunch,Special Menu,282,1
+2025-03-16,dinner,Special Menu,212,1
+2025-03-17,breakfast,Continental,262,0
+2025-03-17,lunch,Continental,320,0
+2025-03-17,dinner,Rice & Curry,305,0
+2025-03-18,breakfast,South Indian,293,0
+2025-03-18,lunch,Rice & Curry,298,0
+2025-03-18,dinner,Continental,293,0
+2025-03-19,breakfast,Rice & Curry,277,0
+2025-03-19,lunch,Rice & Curry,303,0
+2025-03-19,dinner,Rice & Curry,289,0
+2025-03-20,breakfast,Special Menu,259,0
+2025-03-20,lunch,South Indian,378,0
+2025-03-20,dinner,Rice & Curry,315,0
+2025-03-21,breakfast,Continental,252,0
+2025-03-21,lunch,North Indian,364,0
+2025-03-21,dinner,Continental,296,0
+2025-03-22,breakfast,Special Menu,271,0
+2025-03-22,lunch,Continental,294,0
+2025-03-22,dinner,Rice & Curry,275,0
+2025-03-23,breakfast,North Indian,195,1
+2025-03-23,lunch,South Indian,246,1
+2025-03-23,dinner,Special Menu,229,1
+2025-03-24,breakfast,South Indian,269,0
+2025-03-24,lunch,Continental,317,0
+2025-03-24,dinner,North Indian,320,0
+2025-03-25,breakfast,Continental,262,0
+2025-03-25,lunch,Continental,347,0
+2025-03-25,dinner,Special Menu,333,0
+2025-03-26,breakfast,Rice & Curry,312,0
+2025-03-26,lunch,South Indian,348,0
+2025-03-26,dinner,South Indian,341,0
+2025-03-27,breakfast,South Indian,274,0
+2025-03-27,lunch,Rice & Curry,364,0
+2025-03-27,dinner,South Indian,283,0
+2025-03-28,breakfast,Rice & Curry,241,0
+2025-03-28,lunch,North Indian,331,0
+2025-03-28,dinner,South Indian,321,0
+2025-03-29,breakfast,North Indian,258,0
+2025-03-29,lunch,Rice & Curry,276,0
+2025-03-29,dinner,South Indian,291,0
+2025-03-30,breakfast,Continental,183,1
+2025-03-30,lunch,North Indian,271,1
+2025-03-30,dinner,Continental,193,1
+2025-03-31,breakfast,Special Menu,290,0
+2025-03-31,lunch,Continental,336,0
+2025-03-31,dinner,South Indian,322,0
+2025-04-01,breakfast,North Indian,272,0
+2025-04-01,lunch,North Indian,349,0
+2025-04-01,dinner,Special Menu,311,0
+2025-04-02,breakfast,South Indian,291,0
+2025-04-02,lunch,Special Menu,356,0
+2025-04-02,dinner,South Indian,327,0
+2025-04-03,breakfast,Special Menu,265,0
+2025-04-03,lunch,Continental,305,0
+2025-04-03,dinner,North Indian,293,0
+2025-04-04,breakfast,Special Menu,301,0
+2025-04-04,lunch,Special Menu,362,0
+2025-04-04,dinner,Special Menu,338,0
+2025-04-05,breakfast,Special Menu,265,0
+2025-04-05,lunch,Special Menu,360,0
+2025-04-05,dinner,Rice & Curry,263,0
+2025-04-06,breakfast,Continental,164,1
+2025-04-06,lunch,Special Menu,255,1
+2025-04-06,dinner,Continental,199,1
+2025-04-07,breakfast,South Indian,313,0
+2025-04-07,lunch,Continental,307,0
+2025-04-07,dinner,Rice & Curry,281,0
+2025-04-08,breakfast,South Indian,290,0
+2025-04-08,lunch,North Indian,312,0
+2025-04-08,dinner,Special Menu,335,0
+2025-04-09,breakfast,North Indian,265,0
+2025-04-09,lunch,South Indian,333,0
+2025-04-09,dinner,Rice & Curry,308,0
+2025-04-10,breakfast,Rice & Curry,266,0
+2025-04-10,lunch,Special Menu,364,0
+2025-04-10,dinner,Rice & Curry,324,0
+2025-04-11,breakfast,Rice & Curry,243,0
+2025-04-11,lunch,North Indian,364,0
+2025-04-11,dinner,North Indian,325,0
+2025-04-12,breakfast,Continental,247,0
+2025-04-12,lunch,Rice & Curry,324,0
+2025-04-12,dinner,Rice & Curry,313,0
+2025-04-13,breakfast,South Indian,196,1
+2025-04-13,lunch,South Indian,268,1
+2025-04-13,dinner,South Indian,210,1
+2025-04-14,breakfast,North Indian,281,0
+2025-04-14,lunch,Rice & Curry,345,0
+2025-04-14,dinner,Continental,277,0
+2025-04-15,breakfast,Special Menu,250,0
+2025-04-15,lunch,North Indian,325,0
+2025-04-15,dinner,Special Menu,312,0
+2025-04-16,breakfast,South Indian,317,0
+2025-04-16,lunch,South Indian,334,0
+2025-04-16,dinner,North Indian,311,0
+2025-04-17,breakfast,Rice & Curry,265,0
+2025-04-17,lunch,Continental,335,0
+2025-04-17,dinner,Continental,286,0
+2025-04-18,breakfast,North Indian,294,0
+2025-04-18,lunch,South Indian,352,0
+2025-04-18,dinner,Rice & Curry,346,0
+2025-04-19,breakfast,Special Menu,291,0
+2025-04-19,lunch,Rice & Curry,319,0
+2025-04-19,dinner,South Indian,289,0
+2025-04-20,breakfast,Special Menu,197,1
+2025-04-20,lunch,North Indian,265,1
+2025-04-20,dinner,Continental,189,1
+2025-04-21,breakfast,North Indian,285,0
+2025-04-21,lunch,Rice & Curry,351,0
+2025-04-21,dinner,Special Menu,324,0
+2025-04-22,breakfast,Special Menu,282,0
+2025-04-22,lunch,Rice & Curry,334,0
+2025-04-22,dinner,North Indian,321,0
+2025-04-23,breakfast,South Indian,275,0
+2025-04-23,lunch,Continental,295,0
+2025-04-23,dinner,Continental,316,0
+2025-04-24,breakfast,Special Menu,303,0
+2025-04-24,lunch,North Indian,317,0
+2025-04-24,dinner,Continental,238,0
+2025-04-25,breakfast,Rice & Curry,313,0
+2025-04-25,lunch,Special Menu,365,0
+2025-04-25,dinner,Rice & Curry,308,0
+2025-04-26,breakfast,North Indian,224,0
+2025-04-26,lunch,Continental,311,0
+2025-04-26,dinner,North Indian,281,0
+2025-04-27,breakfast,Continental,180,1
+2025-04-27,lunch,North Indian,269,1
+2025-04-27,dinner,Continental,220,1
+2025-04-28,breakfast,South Indian,310,0
+2025-04-28,lunch,Special Menu,341,0
+2025-04-28,dinner,Rice & Curry,323,0
+2025-04-29,breakfast,Continental,286,0
+2025-04-29,lunch,South Indian,343,0
+2025-04-29,dinner,North Indian,306,0
+2025-04-30,breakfast,South Indian,285,0
+2025-04-30,lunch,Rice & Curry,332,0
+2025-04-30,dinner,Rice & Curry,282,0
+2025-05-01,breakfast,North Indian,282,0
+2025-05-01,lunch,Special Menu,329,0
+2025-05-01,dinner,South Indian,301,0
+2025-05-02,breakfast,North Indian,294,0
+2025-05-02,lunch,Continental,316,0
+2025-05-02,dinner,Rice & Curry,268,0
+2025-05-03,breakfast,Special Menu,269,0
+2025-05-03,lunch,Special Menu,331,0
+2025-05-03,dinner,Rice & Curry,274,0
+2025-05-04,breakfast,Continental,177,1
+2025-05-04,lunch,Continental,256,1
+2025-05-04,dinner,North Indian,228,1
+2025-05-05,breakfast,Special Menu,296,0
+2025-05-05,lunch,Special Menu,362,0
+2025-05-05,dinner,Continental,289,0
+2025-05-06,breakfast,Special Menu,281,0
+2025-05-06,lunch,North Indian,325,0
+2025-05-06,dinner,Rice & Curry,276,0
+2025-05-07,breakfast,Rice & Curry,259,0
+2025-05-07,lunch,Rice & Curry,322,0
+2025-05-07,dinner,South Indian,316,0
+2025-05-08,breakfast,North Indian,274,0
+2025-05-08,lunch,North Indian,359,0
+2025-05-08,dinner,South Indian,323,0
+2025-05-09,breakfast,North Indian,261,0
+2025-05-09,lunch,South Indian,360,0
+2025-05-09,dinner,Rice & Curry,272,0
+2025-05-10,breakfast,North Indian,250,0
+2025-05-10,lunch,Rice & Curry,300,0
+2025-05-10,dinner,North Indian,284,0
+2025-05-11,breakfast,Continental,197,1
+2025-05-11,lunch,Special Menu,291,1
+2025-05-11,dinner,Special Menu,235,1
+2025-05-12,breakfast,Continental,216,0
+2025-05-12,lunch,North Indian,337,0
+2025-05-12,dinner,Special Menu,296,0
+2025-05-13,breakfast,South Indian,315,0
+2025-05-13,lunch,South Indian,328,0
+2025-05-13,dinner,Continental,294,0
+2025-05-14,breakfast,Rice & Curry,296,0
+2025-05-14,lunch,South Indian,354,0
+2025-05-14,dinner,Special Menu,348,0
+2025-05-15,breakfast,Special Menu,278,0
+2025-05-15,lunch,Continental,300,0
+2025-05-15,dinner,North Indian,295,0
+2025-05-16,breakfast,South Indian,270,0
+2025-05-16,lunch,Special Menu,360,0
+2025-05-16,dinner,Special Menu,283,0
+2025-05-17,breakfast,North Indian,240,0
+2025-05-17,lunch,Rice & Curry,338,0
+2025-05-17,dinner,North Indian,269,0
+2025-05-18,breakfast,Rice & Curry,190,1
+2025-05-18,lunch,Rice & Curry,258,1
+2025-05-18,dinner,Special Menu,198,1
+2025-05-19,breakfast,Special Menu,266,0
+2025-05-19,lunch,South Indian,353,0
+2025-05-19,dinner,Continental,297,0
+2025-05-20,breakfast,Continental,244,0
+2025-05-20,lunch,Continental,342,0
+2025-05-20,dinner,Continental,293,0
+2025-05-21,breakfast,Special Menu,311,0
+2025-05-21,lunch,North Indian,334,0
+2025-05-21,dinner,Rice & Curry,301,0
+2025-05-22,breakfast,South Indian,267,0
+2025-05-22,lunch,Rice & Curry,327,0
+2025-05-22,dinner,South Indian,301,0
+2025-05-23,breakfast,Continental,240,0
+2025-05-23,lunch,Continental,285,0
+2025-05-23,dinner,Rice & Curry,342,0
+2025-05-24,breakfast,North Indian,242,0
+2025-05-24,lunch,Continental,301,0
+2025-05-24,dinner,Rice & Curry,269,0
+2025-05-25,breakfast,Rice & Curry,159,1
+2025-05-25,lunch,Special Menu,277,1
+2025-05-25,dinner,Continental,174,1
+2025-05-26,breakfast,North Indian,283,0
+2025-05-26,lunch,Rice & Curry,339,0
+2025-05-26,dinner,Special Menu,308,0
+2025-05-27,breakfast,Rice & Curry,277,0
+2025-05-27,lunch,South Indian,317,0
+2025-05-27,dinner,South Indian,301,0
+2025-05-28,breakfast,North Indian,304,0
+2025-05-28,lunch,North Indian,371,0
+2025-05-28,dinner,South Indian,288,0
+2025-05-29,breakfast,North Indian,276,0
+2025-05-29,lunch,North Indian,325,0
+2025-05-29,dinner,Special Menu,335,0
+2025-05-30,breakfast,Continental,251,0
+2025-05-30,lunch,Special Menu,353,0
+2025-05-30,dinner,Special Menu,297,0
+2025-05-31,breakfast,Special Menu,260,0
+2025-05-31,lunch,North Indian,287,0
+2025-05-31,dinner,Rice & Curry,282,0
+2025-06-01,breakfast,North Indian,174,1
+2025-06-01,lunch,Special Menu,280,1
+2025-06-01,dinner,Continental,205,1
+2025-06-02,breakfast,South Indian,253,0
+2025-06-02,lunch,North Indian,355,0
+2025-06-02,dinner,South Indian,350,0
+2025-06-03,breakfast,South Indian,284,0
+2025-06-03,lunch,North Indian,337,0
+2025-06-03,dinner,Continental,301,0
+2025-06-04,breakfast,Special Menu,305,0
+2025-06-04,lunch,Rice & Curry,325,0
+2025-06-04,dinner,North Indian,291,0
+2025-06-05,breakfast,Special Menu,275,0
+2025-06-05,lunch,Rice & Curry,349,0
+2025-06-05,dinner,South Indian,333,0
+2025-06-06,breakfast,Rice & Curry,257,0
+2025-06-06,lunch,Continental,332,0
+2025-06-06,dinner,Special Menu,329,0
+2025-06-07,breakfast,Rice & Curry,202,0
+2025-06-07,lunch,Continental,290,0
+2025-06-07,dinner,South Indian,242,0
+2025-06-08,breakfast,Rice & Curry,160,1
+2025-06-08,lunch,South Indian,255,1
+2025-06-08,dinner,Continental,195,1
+2025-06-09,breakfast,North Indian,250,0
+2025-06-09,lunch,Continental,345,0
+2025-06-09,dinner,North Indian,281,0
+2025-06-10,breakfast,Rice & Curry,274,0
+2025-06-10,lunch,North Indian,335,0
+2025-06-10,dinner,North Indian,298,0
+2025-06-11,breakfast,Rice & Curry,276,0
+2025-06-11,lunch,Rice & Curry,333,0
+2025-06-11,dinner,Special Menu,308,0
+2025-06-12,breakfast,North Indian,240,0
+2025-06-12,lunch,Rice & Curry,346,0
+2025-06-12,dinner,Rice & Curry,275,0
+2025-06-13,breakfast,Continental,253,0
+2025-06-13,lunch,North Indian,297,0
+2025-06-13,dinner,North Indian,271,0
+2025-06-14,breakfast,Special Menu,285,0
+2025-06-14,lunch,Continental,308,0
+2025-06-14,dinner,North Indian,255,0
+2025-06-15,breakfast,Special Menu,174,1
+2025-06-15,lunch,Special Menu,265,1
+2025-06-15,dinner,Continental,208,1
+2025-06-16,breakfast,North Indian,273,0
+2025-06-16,lunch,South Indian,347,0
+2025-06-16,dinner,Special Menu,325,0
+2025-06-17,breakfast,South Indian,245,0
+2025-06-17,lunch,Continental,343,0
+2025-06-17,dinner,Continental,306,0
+2025-06-18,breakfast,North Indian,234,0
+2025-06-18,lunch,Rice & Curry,334,0
+2025-06-18,dinner,North Indian,330,0
+2025-06-19,breakfast,Special Menu,289,0
+2025-06-19,lunch,Special Menu,334,0
+2025-06-19,dinner,Continental,284,0
+2025-06-20,breakfast,North Indian,249,0
+2025-06-20,lunch,Special Menu,387,0
+2025-06-20,dinner,Special Menu,330,0
+2025-06-21,breakfast,Special Menu,241,0
+2025-06-21,lunch,South Indian,333,0
+2025-06-21,dinner,North Indian,283,0
+2025-06-22,breakfast,North Indian,191,1
+2025-06-22,lunch,North Indian,263,1
+2025-06-22,dinner,Special Menu,229,1
+2025-06-23,breakfast,South Indian,241,0
+2025-06-23,lunch,North Indian,326,0
+2025-06-23,dinner,South Indian,280,0
+2025-06-24,breakfast,Special Menu,310,0
+2025-06-24,lunch,Continental,348,0
+2025-06-24,dinner,South Indian,328,0
+2025-06-25,breakfast,Special Menu,279,0
+2025-06-25,lunch,Continental,303,0
+2025-06-25,dinner,South Indian,310,0
+2025-06-26,breakfast,Continental,229,0
+2025-06-26,lunch,Rice & Curry,330,0
+2025-06-26,dinner,Special Menu,341,0
+2025-06-27,breakfast,South Indian,289,0
+2025-06-27,lunch,North Indian,340,0
+2025-06-27,dinner,South Indian,304,0
+2025-06-28,breakfast,Rice & Curry,219,0
+2025-06-28,lunch,Rice & Curry,306,0
+2025-06-28,dinner,Continental,238,0
+2025-06-29,breakfast,South Indian,195,1
+2025-06-29,lunch,North Indian,216,1
+2025-06-29,dinner,Continental,193,1
+2025-06-30,breakfast,South Indian,291,0
+2025-06-30,lunch,Rice & Curry,349,0
+2025-06-30,dinner,Special Menu,293,0
+2025-07-01,breakfast,North Indian,246,0
+2025-07-01,lunch,Rice & Curry,337,0
+2025-07-01,dinner,North Indian,318,0
+2025-07-02,breakfast,Continental,250,0
+2025-07-02,lunch,Rice & Curry,308,0
+2025-07-02,dinner,South Indian,306,0
+2025-07-03,breakfast,Rice & Curry,256,0
+2025-07-03,lunch,South Indian,346,0
+2025-07-03,dinner,Continental,273,0
+2025-07-04,breakfast,Special Menu,283,0
+2025-07-04,lunch,South Indian,334,0
+2025-07-04,dinner,South Indian,306,0
+2025-07-05,breakfast,Continental,209,0
+2025-07-05,lunch,North Indian,338,0
+2025-07-05,dinner,South Indian,258,0
+2025-07-06,breakfast,North Indian,144,1
+2025-07-06,lunch,Rice & Curry,243,1
+2025-07-06,dinner,Continental,192,1
+2025-07-07,breakfast,North Indian,286,0
+2025-07-07,lunch,Continental,328,0
+2025-07-07,dinner,Continental,309,0
+2025-07-08,breakfast,Rice & Curry,252,0
+2025-07-08,lunch,South Indian,327,0
+2025-07-08,dinner,Special Menu,301,0
+2025-07-09,breakfast,Continental,276,0
+2025-07-09,lunch,Rice & Curry,323,0
+2025-07-09,dinner,Continental,315,0
+2025-07-10,breakfast,Special Menu,308,0
+2025-07-10,lunch,North Indian,332,0
+2025-07-10,dinner,Continental,287,0
+2025-07-11,breakfast,North Indian,321,0
+2025-07-11,lunch,Rice & Curry,316,0
+2025-07-11,dinner,Rice & Curry,306,0
+2025-07-12,breakfast,Rice & Curry,227,0
+2025-07-12,lunch,Special Menu,341,0
+2025-07-12,dinner,North Indian,276,0
+2025-07-13,breakfast,North Indian,176,1
+2025-07-13,lunch,North Indian,254,1
+2025-07-13,dinner,South Indian,178,1
+2025-07-14,breakfast,South Indian,252,0
+2025-07-14,lunch,Special Menu,320,0
+2025-07-14,dinner,Rice & Curry,289,0
+2025-07-15,breakfast,Continental,237,0
+2025-07-15,lunch,Rice & Curry,304,0
+2025-07-15,dinner,North Indian,285,0
+2025-07-16,breakfast,South Indian,269,0
+2025-07-16,lunch,Rice & Curry,333,0
+2025-07-16,dinner,South Indian,313,0
+2025-07-17,breakfast,Rice & Curry,258,0
+2025-07-17,lunch,Continental,284,0
+2025-07-17,dinner,Rice & Curry,287,0
+2025-07-18,breakfast,South Indian,267,0
+2025-07-18,lunch,North Indian,332,0
+2025-07-18,dinner,Continental,296,0
+2025-07-19,breakfast,Special Menu,233,0
+2025-07-19,lunch,North Indian,290,0
+2025-07-19,dinner,Special Menu,288,0
+2025-07-20,breakfast,Special Menu,180,1
+2025-07-20,lunch,North Indian,200,1
+2025-07-20,dinner,Special Menu,203,1
+2025-07-21,breakfast,Special Menu,265,0
+2025-07-21,lunch,Rice & Curry,327,0
+2025-07-21,dinner,South Indian,293,0
+2025-07-22,breakfast,South Indian,256,0
+2025-07-22,lunch,Special Menu,329,0
+2025-07-22,dinner,Continental,251,0
+2025-07-23,breakfast,North Indian,268,0
+2025-07-23,lunch,South Indian,336,0
+2025-07-23,dinner,Continental,307,0
+2025-07-24,breakfast,Continental,285,0
+2025-07-24,lunch,Special Menu,340,0
+2025-07-24,dinner,Continental,279,0
+2025-07-25,breakfast,South Indian,249,0
+2025-07-25,lunch,Continental,325,0
+2025-07-25,dinner,South Indian,308,0
+2025-07-26,breakfast,South Indian,264,0
+2025-07-26,lunch,North Indian,330,0
+2025-07-26,dinner,Rice & Curry,247,0
+2025-07-27,breakfast,Special Menu,196,1
+2025-07-27,lunch,Continental,197,1
+2025-07-27,dinner,North Indian,198,1
+2025-07-28,breakfast,South Indian,270,0
+2025-07-28,lunch,Special Menu,333,0
+2025-07-28,dinner,North Indian,324,0
+2025-07-29,breakfast,Rice & Curry,252,0
+2025-07-29,lunch,North Indian,326,0
+2025-07-29,dinner,Rice & Curry,287,0
+2025-07-30,breakfast,North Indian,268,0
+2025-07-30,lunch,South Indian,358,0
+2025-07-30,dinner,Special Menu,309,0
+2025-07-31,breakfast,Special Menu,284,0
+2025-07-31,lunch,Special Menu,342,0
+2025-07-31,dinner,North Indian,307,0
+2025-08-01,breakfast,North Indian,264,0
+2025-08-01,lunch,South Indian,353,0
+2025-08-01,dinner,Special Menu,325,0
+2025-08-02,breakfast,Continental,230,0
+2025-08-02,lunch,Rice & Curry,309,0
+2025-08-02,dinner,Rice & Curry,210,0
+2025-08-03,breakfast,South Indian,114,1
+2025-08-03,lunch,Special Menu,225,1
+2025-08-03,dinner,Special Menu,224,1
+2025-08-04,breakfast,South Indian,246,0
+2025-08-04,lunch,Rice & Curry,349,0
+2025-08-04,dinner,South Indian,288,0
+2025-08-05,breakfast,Continental,246,0
+2025-08-05,lunch,Continental,324,0
+2025-08-05,dinner,Special Menu,305,0
+2025-08-06,breakfast,North Indian,241,0
+2025-08-06,lunch,North Indian,329,0
+2025-08-06,dinner,Continental,252,0
+2025-08-07,breakfast,North Indian,246,0
+2025-08-07,lunch,North Indian,346,0
+2025-08-07,dinner,Continental,271,0
+2025-08-08,breakfast,South Indian,264,0
+2025-08-08,lunch,Rice & Curry,335,0
+2025-08-08,dinner,North Indian,271,0
+2025-08-09,breakfast,Rice & Curry,252,0
+2025-08-09,lunch,Continental,286,0
+2025-08-09,dinner,Continental,262,0
+2025-08-10,breakfast,Rice & Curry,175,1
+2025-08-10,lunch,Rice & Curry,241,1
+2025-08-10,dinner,North Indian,215,1
+2025-08-11,breakfast,Special Menu,283,0
+2025-08-11,lunch,Special Menu,316,0
+2025-08-11,dinner,North Indian,283,0
+2025-08-12,breakfast,Special Menu,263,0
+2025-08-12,lunch,South Indian,362,0
+2025-08-12,dinner,North Indian,321,0
+2025-08-13,breakfast,Continental,243,0
+2025-08-13,lunch,Continental,322,0
+2025-08-13,dinner,South Indian,298,0
+2025-08-14,breakfast,Continental,248,0
+2025-08-14,lunch,North Indian,327,0
+2025-08-14,dinner,Rice & Curry,270,0
+2025-08-15,breakfast,Continental,191,1
+2025-08-15,lunch,Rice & Curry,258,1
+2025-08-15,dinner,Special Menu,248,1
+2025-08-16,breakfast,South Indian,236,0
+2025-08-16,lunch,Continental,300,0
+2025-08-16,dinner,Continental,231,0
+2025-08-17,breakfast,Special Menu,175,1
+2025-08-17,lunch,South Indian,218,1
+2025-08-17,dinner,Continental,169,1
+2025-08-18,breakfast,North Indian,259,0
+2025-08-18,lunch,Special Menu,335,0
+2025-08-18,dinner,North Indian,299,0
+2025-08-19,breakfast,North Indian,263,0
+2025-08-19,lunch,Continental,322,0
+2025-08-19,dinner,Special Menu,263,0
+2025-08-20,breakfast,Rice & Curry,246,0
+2025-08-20,lunch,Rice & Curry,323,0
+2025-08-20,dinner,Continental,274,0
+2025-08-21,breakfast,South Indian,286,0
+2025-08-21,lunch,North Indian,331,0
+2025-08-21,dinner,Rice & Curry,291,0
+2025-08-22,breakfast,Continental,235,0
+2025-08-22,lunch,Continental,332,0
+2025-08-22,dinner,Special Menu,290,0
+2025-08-23,breakfast,South Indian,254,0
+2025-08-23,lunch,Special Menu,301,0
+2025-08-23,dinner,Special Menu,291,0
+2025-08-24,breakfast,Rice & Curry,167,1
+2025-08-24,lunch,Special Menu,238,1
+2025-08-24,dinner,North Indian,190,1
+2025-08-25,breakfast,Special Menu,253,0
+2025-08-25,lunch,Special Menu,348,0
+2025-08-25,dinner,South Indian,290,0
+2025-08-26,breakfast,Continental,246,0
+2025-08-26,lunch,South Indian,309,0
+2025-08-26,dinner,Rice & Curry,308,0
+2025-08-27,breakfast,Continental,251,0
+2025-08-27,lunch,Continental,316,0
+2025-08-27,dinner,Rice & Curry,279,0
+2025-08-28,breakfast,Rice & Curry,278,0
+2025-08-28,lunch,Continental,334,0
+2025-08-28,dinner,Special Menu,288,0
+2025-08-29,breakfast,North Indian,237,0
+2025-08-29,lunch,South Indian,342,0
+2025-08-29,dinner,South Indian,292,0
+2025-08-30,breakfast,Special Menu,244,0
+2025-08-30,lunch,Continental,287,0
+2025-08-30,dinner,South Indian,243,0
+2025-08-31,breakfast,North Indian,173,1
+2025-08-31,lunch,South Indian,270,1
+2025-08-31,dinner,Rice & Curry,184,1
+2025-09-01,breakfast,Continental,269,0
+2025-09-01,lunch,Continental,311,0
+2025-09-01,dinner,South Indian,301,0
+2025-09-02,breakfast,North Indian,258,0
+2025-09-02,lunch,North Indian,319,0
+2025-09-02,dinner,Rice & Curry,253,0
+2025-09-03,breakfast,South Indian,275,0
+2025-09-03,lunch,South Indian,322,0
+2025-09-03,dinner,Rice & Curry,281,0
+2025-09-04,breakfast,North Indian,259,0
+2025-09-04,lunch,Continental,301,0
+2025-09-04,dinner,South Indian,292,0
+2025-09-05,breakfast,Special Menu,297,0
+2025-09-05,lunch,Continental,330,0
+2025-09-05,dinner,Continental,295,0
+2025-09-06,breakfast,North Indian,245,0
+2025-09-06,lunch,Rice & Curry,310,0
+2025-09-06,dinner,North Indian,244,0
+2025-09-07,breakfast,Continental,168,1
+2025-09-07,lunch,Continental,212,1
+2025-09-07,dinner,Special Menu,235,1
+2025-09-08,breakfast,North Indian,283,0
+2025-09-08,lunch,North Indian,321,0
+2025-09-08,dinner,South Indian,288,0
+2025-09-09,breakfast,Rice & Curry,253,0
+2025-09-09,lunch,Rice & Curry,341,0
+2025-09-09,dinner,Special Menu,292,0
+2025-09-10,breakfast,North Indian,238,0
+2025-09-10,lunch,Rice & Curry,329,0
+2025-09-10,dinner,North Indian,272,0
+2025-09-11,breakfast,South Indian,258,0
+2025-09-11,lunch,South Indian,328,0
+2025-09-11,dinner,South Indian,324,0
+2025-09-12,breakfast,North Indian,251,0
+2025-09-12,lunch,South Indian,295,0
+2025-09-12,dinner,North Indian,281,0
+2025-09-13,breakfast,Special Menu,234,0
+2025-09-13,lunch,South Indian,307,0
+2025-09-13,dinner,South Indian,294,0
+2025-09-14,breakfast,Rice & Curry,164,1
+2025-09-14,lunch,North Indian,237,1
+2025-09-14,dinner,Rice & Curry,224,1
+2025-09-15,breakfast,Continental,201,0
+2025-09-15,lunch,Rice & Curry,311,0
+2025-09-15,dinner,North Indian,286,0
+2025-09-16,breakfast,Special Menu,277,0
+2025-09-16,lunch,South Indian,325,0
+2025-09-16,dinner,South Indian,311,0
+2025-09-17,breakfast,South Indian,266,0
+2025-09-17,lunch,Continental,317,0
+2025-09-17,dinner,Special Menu,288,0
+2025-09-18,breakfast,South Indian,264,0
+2025-09-18,lunch,Rice & Curry,320,0
+2025-09-18,dinner,Special Menu,254,0
+2025-09-19,breakfast,Special Menu,243,0
+2025-09-19,lunch,Continental,306,0
+2025-09-19,dinner,North Indian,281,0
+2025-09-20,breakfast,North Indian,215,0
+2025-09-20,lunch,Continental,275,0
+2025-09-20,dinner,North Indian,296,0
+2025-09-21,breakfast,Special Menu,174,1
+2025-09-21,lunch,Rice & Curry,212,1
+2025-09-21,dinner,South Indian,171,1
+2025-09-22,breakfast,Continental,224,0
+2025-09-22,lunch,North Indian,324,0
+2025-09-22,dinner,South Indian,278,0
+2025-09-23,breakfast,Special Menu,271,0
+2025-09-23,lunch,Continental,320,0
+2025-09-23,dinner,North Indian,261,0
+2025-09-24,breakfast,Rice & Curry,236,0
+2025-09-24,lunch,Rice & Curry,331,0
+2025-09-24,dinner,North Indian,260,0
+2025-09-25,breakfast,South Indian,256,0
+2025-09-25,lunch,Continental,323,0
+2025-09-25,dinner,Continental,270,0
+2025-09-26,breakfast,South Indian,280,0
+2025-09-26,lunch,Rice & Curry,315,0
+2025-09-26,dinner,Rice & Curry,315,0
+2025-09-27,breakfast,South Indian,275,0
+2025-09-27,lunch,Rice & Curry,281,0
+2025-09-27,dinner,South Indian,297,0
+2025-09-28,breakfast,Special Menu,157,1
+2025-09-28,lunch,South Indian,236,1
+2025-09-28,dinner,Rice & Curry,191,1
+2025-09-29,breakfast,South Indian,250,0
+2025-09-29,lunch,South Indian,319,0
+2025-09-29,dinner,North Indian,269,0
+2025-09-30,breakfast,Rice & Curry,255,0
+2025-09-30,lunch,North Indian,341,0
+2025-09-30,dinner,Rice & Curry,277,0
+2025-10-01,breakfast,North Indian,242,0
+2025-10-01,lunch,Continental,287,0
+2025-10-01,dinner,South Indian,259,0
+2025-10-02,breakfast,Rice & Curry,228,0
+2025-10-02,lunch,Continental,336,0
+2025-10-02,dinner,Special Menu,321,0
+2025-10-03,breakfast,Continental,249,0
+2025-10-03,lunch,South Indian,316,0
+2025-10-03,dinner,Special Menu,307,0
+2025-10-04,breakfast,South Indian,230,0
+2025-10-04,lunch,North Indian,313,0
+2025-10-04,dinner,Special Menu,266,0
+2025-10-05,breakfast,Special Menu,161,1
+2025-10-05,lunch,North Indian,240,1
+2025-10-05,dinner,Rice & Curry,199,1
+2025-10-06,breakfast,Continental,243,0
+2025-10-06,lunch,Rice & Curry,330,0
+2025-10-06,dinner,North Indian,313,0
+2025-10-07,breakfast,South Indian,285,0
+2025-10-07,lunch,South Indian,362,0
+2025-10-07,dinner,Rice & Curry,271,0
+2025-10-08,breakfast,Rice & Curry,251,0
+2025-10-08,lunch,Rice & Curry,313,0
+2025-10-08,dinner,Special Menu,295,0
+2025-10-09,breakfast,Special Menu,240,0
+2025-10-09,lunch,North Indian,352,0
+2025-10-09,dinner,Rice & Curry,266,0
+2025-10-10,breakfast,North Indian,242,0
+2025-10-10,lunch,Continental,301,0
+2025-10-10,dinner,Special Menu,297,0
+2025-10-11,breakfast,North Indian,264,0
+2025-10-11,lunch,North Indian,321,0
+2025-10-11,dinner,South Indian,272,0
+2025-10-12,breakfast,Special Menu,173,1
+2025-10-12,lunch,North Indian,237,1
+2025-10-12,dinner,Rice & Curry,178,1
+2025-10-13,breakfast,North Indian,267,0
+2025-10-13,lunch,South Indian,343,0
+2025-10-13,dinner,Rice & Curry,308,0
+2025-10-14,breakfast,Continental,236,0
+2025-10-14,lunch,Special Menu,345,0
+2025-10-14,dinner,Special Menu,299,0
+2025-10-15,breakfast,Rice & Curry,240,0
+2025-10-15,lunch,Special Menu,345,0
+2025-10-15,dinner,Continental,268,0
+2025-10-16,breakfast,North Indian,216,0
+2025-10-16,lunch,Continental,276,0
+2025-10-16,dinner,North Indian,286,0
+2025-10-17,breakfast,Rice & Curry,255,0
+2025-10-17,lunch,Special Menu,338,0
+2025-10-17,dinner,North Indian,321,0
+2025-10-18,breakfast,Special Menu,249,0
+2025-10-18,lunch,Rice & Curry,291,0
+2025-10-18,dinner,Rice & Curry,220,0
+2025-10-19,breakfast,Continental,160,1
+2025-10-19,lunch,North Indian,210,1
+2025-10-19,dinner,Special Menu,200,1
+2025-10-20,breakfast,Special Menu,251,0
+2025-10-20,lunch,South Indian,334,0
+2025-10-20,dinner,Rice & Curry,235,0
+2025-10-21,breakfast,North Indian,267,0
+2025-10-21,lunch,Rice & Curry,316,0
+2025-10-21,dinner,Rice & Curry,236,0
+2025-10-22,breakfast,Continental,265,0
+2025-10-22,lunch,Continental,263,0
+2025-10-22,dinner,South Indian,271,0
+2025-10-23,breakfast,Rice & Curry,265,0
+2025-10-23,lunch,North Indian,333,0
+2025-10-23,dinner,Special Menu,309,0
+2025-10-24,breakfast,Continental,239,0
+2025-10-24,lunch,Special Menu,346,0
+2025-10-24,dinner,Rice & Curry,302,0
+2025-10-25,breakfast,Rice & Curry,215,0
+2025-10-25,lunch,Continental,290,0
+2025-10-25,dinner,Continental,223,0
+2025-10-26,breakfast,South Indian,193,1
+2025-10-26,lunch,South Indian,251,1
+2025-10-26,dinner,Special Menu,210,1
+2025-10-27,breakfast,North Indian,269,0
+2025-10-27,lunch,Rice & Curry,302,0
+2025-10-27,dinner,North Indian,302,0
+2025-10-28,breakfast,South Indian,270,0
+2025-10-28,lunch,Rice & Curry,355,0
+2025-10-28,dinner,North Indian,298,0
+2025-10-29,breakfast,South Indian,312,0
+2025-10-29,lunch,Special Menu,325,0
+2025-10-29,dinner,Continental,281,0
+2025-10-30,breakfast,North Indian,247,0
+2025-10-30,lunch,South Indian,315,0
+2025-10-30,dinner,Rice & Curry,287,0
+2025-10-31,breakfast,Special Menu,256,0
+2025-10-31,lunch,Rice & Curry,319,0
+2025-10-31,dinner,North Indian,282,0
+2025-11-01,breakfast,North Indian,211,0
+2025-11-01,lunch,Special Menu,324,0
+2025-11-01,dinner,South Indian,280,0
+2025-11-02,breakfast,Special Menu,176,1
+2025-11-02,lunch,South Indian,239,1
+2025-11-02,dinner,Special Menu,208,1
+2025-11-03,breakfast,Continental,260,0
+2025-11-03,lunch,Rice & Curry,290,0
+2025-11-03,dinner,North Indian,280,0
+2025-11-04,breakfast,North Indian,263,0
+2025-11-04,lunch,South Indian,358,0
+2025-11-04,dinner,Special Menu,322,0
+2025-11-05,breakfast,South Indian,237,0
+2025-11-05,lunch,Continental,329,0
+2025-11-05,dinner,Continental,245,0
+2025-11-06,breakfast,Special Menu,269,0
+2025-11-06,lunch,Special Menu,350,0
+2025-11-06,dinner,Continental,277,0
+2025-11-07,breakfast,Special Menu,297,0
+2025-11-07,lunch,Special Menu,362,0
+2025-11-07,dinner,Continental,268,0
+2025-11-08,breakfast,Rice & Curry,227,0
+2025-11-08,lunch,North Indian,307,0
+2025-11-08,dinner,North Indian,288,0
+2025-11-09,breakfast,Continental,163,1
+2025-11-09,lunch,South Indian,231,1
+2025-11-09,dinner,South Indian,234,1
+2025-11-10,breakfast,Special Menu,261,0
+2025-11-10,lunch,North Indian,294,0
+2025-11-10,dinner,South Indian,328,0
+2025-11-11,breakfast,Special Menu,267,0
+2025-11-11,lunch,North Indian,338,0
+2025-11-11,dinner,Special Menu,322,0
+2025-11-12,breakfast,Special Menu,265,0
+2025-11-12,lunch,North Indian,319,0
+2025-11-12,dinner,South Indian,284,0
+2025-11-13,breakfast,South Indian,269,0
+2025-11-13,lunch,Rice & Curry,334,0
+2025-11-13,dinner,Continental,284,0
+2025-11-14,breakfast,Continental,237,0
+2025-11-14,lunch,Special Menu,313,0
+2025-11-14,dinner,Continental,297,0
+2025-11-15,breakfast,South Indian,228,0
+2025-11-15,lunch,North Indian,346,0
+2025-11-15,dinner,Rice & Curry,278,0
+2025-11-16,breakfast,Rice & Curry,167,1
+2025-11-16,lunch,North Indian,237,1
+2025-11-16,dinner,Continental,195,1
+2025-11-17,breakfast,Continental,248,0
+2025-11-17,lunch,North Indian,312,0
+2025-11-17,dinner,South Indian,312,0
+2025-11-18,breakfast,Rice & Curry,265,0
+2025-11-18,lunch,Special Menu,336,0
+2025-11-18,dinner,South Indian,279,0
+2025-11-19,breakfast,Special Menu,242,0
+2025-11-19,lunch,South Indian,340,0
+2025-11-19,dinner,South Indian,287,0
+2025-11-20,breakfast,Rice & Curry,200,0
+2025-11-20,lunch,South Indian,356,0
+2025-11-20,dinner,Rice & Curry,272,0
+2025-11-21,breakfast,Special Menu,247,0
+2025-11-21,lunch,South Indian,362,0
+2025-11-21,dinner,Continental,281,0
+2025-11-22,breakfast,Continental,266,0
+2025-11-22,lunch,South Indian,308,0
+2025-11-22,dinner,Rice & Curry,251,0
+2025-11-23,breakfast,Continental,168,1
+2025-11-23,lunch,South Indian,247,1
+2025-11-23,dinner,Continental,215,1
+2025-11-24,breakfast,Continental,244,0
+2025-11-24,lunch,South Indian,338,0
+2025-11-24,dinner,Special Menu,334,0
+2025-11-25,breakfast,Rice & Curry,272,0
+2025-11-25,lunch,Continental,303,0
+2025-11-25,dinner,Continental,284,0
+2025-11-26,breakfast,North Indian,277,0
+2025-11-26,lunch,North Indian,306,0
+2025-11-26,dinner,Rice & Curry,260,0
+2025-11-27,breakfast,Rice & Curry,223,0
+2025-11-27,lunch,North Indian,331,0
+2025-11-27,dinner,North Indian,289,0
+2025-11-28,breakfast,South Indian,226,0
+2025-11-28,lunch,North Indian,327,0
+2025-11-28,dinner,Special Menu,340,0
+2025-11-29,breakfast,South Indian,238,0
+2025-11-29,lunch,Special Menu,351,0
+2025-11-29,dinner,North Indian,278,0
+2025-11-30,breakfast,North Indian,175,1
+2025-11-30,lunch,Continental,244,1
+2025-11-30,dinner,Continental,175,1
+2025-12-01,breakfast,Continental,222,0
+2025-12-01,lunch,North Indian,336,0
+2025-12-01,dinner,North Indian,279,0
+2025-12-02,breakfast,North Indian,260,0
+2025-12-02,lunch,Continental,298,0
+2025-12-02,dinner,Rice & Curry,279,0
+2025-12-03,breakfast,Rice & Curry,261,0
+2025-12-03,lunch,Rice & Curry,305,0
+2025-12-03,dinner,South Indian,276,0
+2025-12-04,breakfast,Special Menu,263,0
+2025-12-04,lunch,North Indian,354,0
+2025-12-04,dinner,North Indian,296,0
+2025-12-05,breakfast,North Indian,270,0
+2025-12-05,lunch,Rice & Curry,288,0
+2025-12-05,dinner,Special Menu,340,0
+2025-12-06,breakfast,Continental,228,0
+2025-12-06,lunch,North Indian,319,0
+2025-12-06,dinner,South Indian,292,0
+2025-12-07,breakfast,Special Menu,157,1
+2025-12-07,lunch,North Indian,248,1
+2025-12-07,dinner,South Indian,235,1
+2025-12-08,breakfast,Special Menu,268,0
+2025-12-08,lunch,South Indian,315,0
+2025-12-08,dinner,Special Menu,255,0
+2025-12-09,breakfast,Rice & Curry,253,0
+2025-12-09,lunch,Special Menu,337,0
+2025-12-09,dinner,North Indian,313,0
+2025-12-10,breakfast,Rice & Curry,253,0
+2025-12-10,lunch,Rice & Curry,338,0
+2025-12-10,dinner,Rice & Curry,296,0
+2025-12-11,breakfast,Rice & Curry,274,0
+2025-12-11,lunch,Rice & Curry,306,0
+2025-12-11,dinner,Special Menu,287,0
+2025-12-12,breakfast,South Indian,282,0
+2025-12-12,lunch,South Indian,322,0
+2025-12-12,dinner,Special Menu,332,0
+2025-12-13,breakfast,South Indian,262,0
+2025-12-13,lunch,Special Menu,327,0
+2025-12-13,dinner,Continental,282,0
+2025-12-14,breakfast,North Indian,171,1
+2025-12-14,lunch,Rice & Curry,226,1
+2025-12-14,dinner,North Indian,215,1
+2025-12-15,breakfast,North Indian,234,0
+2025-12-15,lunch,South Indian,326,0
+2025-12-15,dinner,Continental,273,0
+2025-12-16,breakfast,Special Menu,251,0
+2025-12-16,lunch,South Indian,326,0
+2025-12-16,dinner,Continental,293,0
+2025-12-17,breakfast,North Indian,260,0
+2025-12-17,lunch,Special Menu,339,0
+2025-12-17,dinner,Continental,265,0
+2025-12-18,breakfast,South Indian,249,0
+2025-12-18,lunch,Rice & Curry,316,0
+2025-12-18,dinner,North Indian,272,0
+2025-12-19,breakfast,Rice & Curry,271,0
+2025-12-19,lunch,North Indian,304,0
+2025-12-19,dinner,Continental,276,0
+2025-12-20,breakfast,North Indian,247,0
+2025-12-20,lunch,Rice & Curry,280,0
+2025-12-20,dinner,North Indian,248,0
+2025-12-21,breakfast,Continental,182,1
+2025-12-21,lunch,South Indian,213,1
+2025-12-21,dinner,Special Menu,241,1
+2025-12-22,breakfast,South Indian,268,0
+2025-12-22,lunch,Continental,308,0
+2025-12-22,dinner,Special Menu,304,0
+2025-12-23,breakfast,North Indian,221,0
+2025-12-23,lunch,Continental,338,0
+2025-12-23,dinner,South Indian,292,0
+2025-12-24,breakfast,South Indian,246,0
+2025-12-24,lunch,Continental,318,0
+2025-12-24,dinner,Special Menu,294,0
+2025-12-25,breakfast,South Indian,279,0
+2025-12-25,lunch,Special Menu,353,0
+2025-12-25,dinner,North Indian,322,0
+2025-12-26,breakfast,Special Menu,258,0
+2025-12-26,lunch,South Indian,362,0
+2025-12-26,dinner,Continental,304,0
+2025-12-27,breakfast,South Indian,244,0
+2025-12-27,lunch,North Indian,337,0
+2025-12-27,dinner,North Indian,276,0
+2025-12-28,breakfast,North Indian,174,1
+2025-12-28,lunch,Rice & Curry,248,1
+2025-12-28,dinner,Special Menu,216,1
+2025-12-29,breakfast,South Indian,273,0
+2025-12-29,lunch,North Indian,322,0
+2025-12-29,dinner,Rice & Curry,342,0
+2025-12-30,breakfast,Rice & Curry,228,0
+2025-12-30,lunch,Continental,308,0
+2025-12-30,dinner,North Indian,305,0
+2025-12-31,breakfast,Continental,266,0
+2025-12-31,lunch,Continental,343,0
+2025-12-31,dinner,North Indian,315,0

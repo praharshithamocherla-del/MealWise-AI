@@ -1,0 +1,34 @@
+{
+  "selected_model": "Linear Regression",
+  "selection_rule": "Lowest held-out MAE among the three ML models",
+  "dataset_type": "synthetic demonstration data",
+  "test_records": 219,
+  "train_records": 876,
+  "metrics": [
+    {
+      "model": "Dummy baseline",
+      "MAE": 36.84380017097225,
+      "RMSE": 45.69583827827446,
+      "R2": -0.014233095633390258
+    },
+    {
+      "model": "Linear Regression",
+      "MAE": 16.662091039784674,
+      "RMSE": 20.838484988853768,
+      "R2": 0.7890804853056844
+    },
+    {
+      "model": "Decision Tree",
+      "MAE": 18.279034815758397,
+      "RMSE": 23.396462490655388,
+      "R2": 0.734120486216856
+    },
+    {
+      "model": "Random Forest",
+      "MAE": 17.37203883049345,
+      "RMSE": 21.82043464972643,
+      "R2": 0.7687342736764785
+    }
+  ],
+  "warning": "These results describe synthetic data only and are not evidence of real cafeteria performance."
+}

@@ -1,0 +1,2 @@
+Generated model artifact, metrics, and evaluation plots.
+Synthetic data records: 1095
